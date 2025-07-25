@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
 
 <p align="center">
-  <em>📚 Data Science & AI Student | 🧠 AI Learner | 💻 Intern @ TIFR & SIES College | 🧘‍♂️ Yoga Enthusiast | 🌟 Purpose-Driven Explorer</em>
+  <em>📚 Data Science & AI Student | 🧠 AI Learner | 💻 Aspiring Data Analayst | 🧘‍♂️ Yoga Enthusiast | 🌟 Purpose-Driven Explorer</em>
 </p>
 
 ---
