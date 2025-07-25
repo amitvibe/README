@@ -1,4 +1,4 @@
-# README
+
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
 
 <p align="center">
