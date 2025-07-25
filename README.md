@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 I'm a final-year undergraduate pursuing **B.Sc. in Data Science & AI** from *Ramniranjan Jhunjhunwala College*, Mumbai.  
-Currently interning at **TIFR** & **SIES College**, I'm passionate about transforming **data into insights**, and **technology into impact**.
+Aspring Data Analyst Aspirant, I'm passionate about transforming **data into insights**, and **technology into impact**.
 
 > Inspired by Ratan Tata & A.P.J. Abdul Kalam, I strive not just to succeed but to serve with purpose.
 
